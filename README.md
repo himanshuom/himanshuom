@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **DSA**
+- 🔭 I’m currently learning and building a strong foundation  in **DSA**
 
 - ⚡ Fun fact **Explore more things**
 
